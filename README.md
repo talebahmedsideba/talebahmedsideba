@@ -23,6 +23,13 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TalebAhmed&style=flat&color=orange)
 [![GitHub Followers](https://img.shields.io/github/followers/TalebAhmed?style=flat)](https://github.com/TalebAhmed)
+## 📫 Contact Me
+
+- 📧 **Email**: talebahmedsidebe@example.com  
+- 💬 **Telegram**: [@TalebAhmed](https://t.me/TalebAhmed)  
+- 💻 **GitHub**: https://github.com/TalebAhmed  
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/taleb-ahmed (optionnel)](https://www.linkedin.com/in/taleb-ahmed-a8bba53a2/)
+
 
 📬 **Telegram**: [@TalebAhmed](https://t.me/)  
 
