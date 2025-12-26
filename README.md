@@ -6,8 +6,8 @@
 
 ---
 
-## 👋 Hello, I'm **Taleb Ahmed**
-🎓 **Licence Student in Computer Networks & Telecommunications**  
+## 👋 **Taleb Ahmed**
+🎓 **Licence Student in Réseaux Informatiques & Telecommunications**  
 🌍 Passionate about **Networking, Cloud, Linux & Programming**
 
 ---
